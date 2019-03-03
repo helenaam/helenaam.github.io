@@ -1,8 +1,4 @@
-## Welcome to Helena's website
-
-### Resume
-
-[Resume](https://github.com/helenaam/helenaam.github.io/assests/Helena_Resume_03032019.pdf)
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/helenaam/helenaam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
