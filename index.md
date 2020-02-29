@@ -2,4 +2,4 @@
 
 ### Resume
 
-[Resume](https://helenaam.github.io/assets/Helena_Resume_03032019.pdf)
+[Resume](https://helenaam.github.io/assets/Helena_Resume_02022020.pdf)
